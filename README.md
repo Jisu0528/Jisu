@@ -72,3 +72,8 @@
 >>
 >> <audio src="C:\Users\01052\Desktop\대학\2-2\오픈소스\voice.mp3"></audio>
 
+> #### 참고한 사이트
+>
+> https://www.delftstack.com/ko/howto/python/python-text-to-speech/
+>
+> https://niceman.tistory.com/157
